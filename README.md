@@ -1,6 +1,5 @@
 # Learning about Version Control
 
-Solving merge conflicts is sooooo hard!
+Solving merge conflicts takes conscious effort, but I can do it!
 
 Author: Siwei Wang
-
